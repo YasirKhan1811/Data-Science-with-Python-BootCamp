@@ -1,2 +1,3 @@
-# Python-Ka-Chilla-with-Dr.-Aammar
-Bootcamp 
+# Python Ka Chilla (40 Days Long Bootcamp)
+
+Chilla is an urdu language term, which refers to a commitment of 40 days to perform a specific task. This bootcamp started on the first day of 2022 (Jan. 01, 2022) and completed on 10th of February. The instructor was Dr. Muhammad Aammar Tufail, who is a Data Scientist in Agricultural Sciences. He holds a PhD in Agroecology and Sustainable Agriculture from Università di Trento, Italy and is a faculty member in Bioinformatics at the University of Kiel, Germany. He has vast experience in Meta Analysis. Here is the link to his [LinkedIn](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/) and the [Course]() on YouTube. This Chilla has been the inspiration of my Data Science journey. During this bootcamp, we learned Data Science with Python through hands-on tutorials from the basics of Python to Machine Learning and OpenCV. I have created this repository to host all my practices and projects that I have applied during this Chilla.  
